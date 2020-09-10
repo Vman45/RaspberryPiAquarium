@@ -5,13 +5,13 @@ This is a simple Raspberry Pi Aquarium controller written in Python.
 Is based in 2 main things, a Python script to manage a relay and a crontab schedule to control the Python execution over the day.
 
 ## Python controller
-https://github.com/ratsteak/RaspberryPiAquarium/tree/master/Python
+https://github.com/u915/RaspberryPiAquarium/tree/master/Python
 
 ## Crontab schedule
-https://github.com/ratsteak/RaspberryPiAquarium/tree/master/Crontab
+https://github.com/u915/RaspberryPiAquarium/tree/master/Crontab
 
 ## Circuit scheme
-![alt text](https://github.com/ratsteak/RaspberryPiAquarium/blob/master/Circuit/circuit.png "Circuit")
+![alt text](https://github.com/u915/RaspberryPiAquarium/blob/master/Circuit/circuit.png "Circuit")
 
 Made with https://www.circuit-diagram.org the circuit scheme is also included.
 
